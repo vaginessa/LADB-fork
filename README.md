@@ -10,8 +10,10 @@ speak to each other locally.
 
 # Initial Setup
 
-Use split-screen more or a pop-out window with LADB and Settings at the same time. This is because Android will
-invalidate the pairing information if the dialog gets dismissed. Add a Wireless Debugging connection, and copy the
+Use split-screen mode or a pop-out window with LADB and Settings at the same time. This is because
+Android will
+invalidate the pairing information if the dialog gets dismissed. Add a Wireless Debugging
+connection, and copy the
 pairing code and port into LADB. Keep both windows open until the Settings dialog dismisses itself.
 
 # Issues
