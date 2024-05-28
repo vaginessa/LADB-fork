@@ -1,4 +1,4 @@
-# LADB
+7# LADB
 
 A local ADB shell for Android!
 
@@ -40,3 +40,5 @@ We also have a Telegram server here: https://t.me/ladb_support.
 # Privacy Policy
 
 LADB does not send any device data outside the app. Your data is not collected or processed.
+
+  
